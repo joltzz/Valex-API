@@ -1,3 +1,4 @@
+import bcrypt from "bcrypt";
 import dayjs from "dayjs";
 
 import * as cardRepository from "../repositories/cardRepository.js";
